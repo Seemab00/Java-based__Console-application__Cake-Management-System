@@ -35,11 +35,13 @@ java ccakeordermanagementsystem.CcakeOrderManagementSystem
 
 ## 👤 Developer
 
-**Simaab Malik** (SAP ID: 54910)  
-BS Software Engineering, 2nd Semester  
+**Simaab Malik**  
+SAP ID: 54910  
+BS Software Engineering  
 Riphah International University  
 **Supervisor**: Ma'am Anum  
-**Date**: 03/06/2023
+**Co-Supervisor**: Ma'am Amna  
+**Session**: Spring 2024 - 2nd Sem
 
 ---
 
