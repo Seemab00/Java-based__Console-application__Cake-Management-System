@@ -1,7 +1,8 @@
 # Cake Management System
 The **Cake Management System (CMS)** is a command-line application that streamlines cake shop operations. Built with Object-Oriented Programming principles, it enables customer order management and administrative control over the system.
 
----
+
+
 
 ## 🚀 Core Features
 
@@ -16,7 +17,8 @@ The **Cake Management System (CMS)** is a command-line application that streamli
 ### Cake Inventory
 - Chocolate, Vanilla & Strawberry (Rs. 900 each)
 
----
+
+
 
 ## 🛠️ Technology
 | Aspect | Detail |
@@ -26,7 +28,8 @@ The **Cake Management System (CMS)** is a command-line application that streamli
 **Interface** | Command-Line |
 **Data Storage** | Collections (ArrayList) |
 
----
+
+
 
 ## 🏗️ OOP Concepts
 
@@ -35,7 +38,9 @@ The **Cake Management System (CMS)** is a command-line application that streamli
 - **Polymorphism** - Method overriding
 - **Abstraction** - Abstract class (Person) & Interface (User)
 - **Association** - Customer has Address & Orders
----
+
+
+
 
 ### Main Menu
 1. Customer  → Register/Login → Place/View/Update/Delete Orders
