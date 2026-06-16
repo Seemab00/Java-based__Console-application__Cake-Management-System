@@ -1,8 +1,11 @@
 # Cake Management System
+
 A Java-based console application for bakery order and inventory management using OOP principles.
+
 ---
 
 ## 📌 Overview
+
 The **Cake Management System (CMS)** is a command-line application that streamlines cake shop operations. Built with Object-Oriented Programming principles, it enables customer order management and administrative control over the system.
 
 ---
@@ -29,15 +32,16 @@ The **Cake Management System (CMS)** is a command-line application that streamli
 **Paradigm** | Object-Oriented Programming |
 **Interface** | Command-Line |
 **Data Storage** | Collections (ArrayList) |
+
 ---
 
 ## 🏗️ OOP Concepts
+
 - **Encapsulation** - Private fields with getters/setters
 - **Inheritance** - Cake → Chocolate/Vanilla/StrawberryCake
 - **Polymorphism** - Method overriding
 - **Abstraction** - Abstract class (Person) & Interface (User)
 - **Association** - Customer has Address & Orders
-
 ---
 
 ### Main Menu
