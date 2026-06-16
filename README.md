@@ -1,52 +1,52 @@
 # Cake Management System
-The **Cake Management System (CMS)** is a command-line application that streamlines cake shop operations. Built with Object-Oriented Programming principles, it enables customer order management and administrative control over the system.
 
+## 📌 About
 
-
-
-## 🚀 Core Features
-
-### Customer Module
-- Register & Login
-- Place/View/Update/Delete Orders
-
-### Admin Module
-- View all orders & customers
-- Update/Delete customer records
-
-### Cake Inventory
-- Chocolate, Vanilla & Strawberry (Rs. 900 each)
-
-
-
-
-## 🛠️ Technology
-| Aspect | Detail |
-|--------|--------|
-| **Language** | Java |
-**Paradigm** | Object-Oriented Programming |
-**Interface** | Command-Line |
-**Data Storage** | Collections (ArrayList) |
-
-
-
-
-## 🏗️ OOP Concepts
-
-- **Encapsulation** - Private fields with getters/setters
-- **Inheritance** - Cake → Chocolate/Vanilla/StrawberryCake
-- **Polymorphism** - Method overriding
-- **Abstraction** - Abstract class (Person) & Interface (User)
-- **Association** - Customer has Address & Orders
-
-
-
-
-### Main Menu
-1. Customer  → Register/Login → Place/View/Update/Delete Orders
-2. Admin     → Register/Login → Manage Orders & Customers
-3. Exit
+**Cake Management System** is a Java-based console application developed for the Object-Oriented Programming course. It enables bakeries to manage customer orders, cake inventory, and administrative operations through a command-line interface.
 
 ---
 
-*For complete details, refer to the project proposal document.*
+## ✨ Features
+
+- Customer registration & login
+- Place, view, update & delete orders
+- Admin dashboard for managing orders & customers
+- Three cake varieties: Chocolate, Vanilla & Strawberry
+
+---
+
+## 🛠️ Tech Stack
+
+- Java
+- OOP Concepts (Encapsulation, Inheritance, Polymorphism, Abstraction)
+- Collections (ArrayList)
+- Command-Line Interface
+
+---
+
+## 🚀 Quick Start
+
+```bash
+javac ccakeordermanagementsystem/*.java
+java ccakeordermanagementsystem.CcakeOrderManagementSystem
+```
+
+---
+
+## 👤 Developer
+
+**Simaab Malik** (SAP ID: 54910)  
+BS Software Engineering, 2nd Semester  
+Riphah International University  
+**Supervisor**: Ma'am Anum  
+**Date**: 03/06/2023
+
+---
+
+## 📄 License
+
+Educational Project - Object-Oriented Programming Course
+
+---
+
+*For complete details, refer to the project proposal.*
